@@ -9,6 +9,9 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p><hr>
 
+[![Run on Repl.it](https://replit.com/badge/github/alvlp-xyz/pyspes)](https://replit.com/new/github/alvlp-xyz/pyspes)
+
+
 ## Nodes
 <p align='center'>
   
